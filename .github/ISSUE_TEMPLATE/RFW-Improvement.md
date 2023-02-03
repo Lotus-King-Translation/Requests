@@ -1,6 +1,6 @@
 ---
-name: RFW
-about: For all RFWs
+name: RFW for Improvements
+about: RFW Template for Improvement Requests
 title: "[RFW]"
 labels: ''
 assignees: ''
