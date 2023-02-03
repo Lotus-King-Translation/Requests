@@ -61,6 +61,6 @@ Take time to complete each section below with as much detail as is required to e
 
 *If applicable, explain what alternatives are there available and known to us that would allow achieving the same or similar business value. Particularly pay attention to the 80/20 rule here i.e. alternatives where we might get 80% of the business value with 20% of the work.*
 
-<h2 id="time-sensitivity">Business release date</h2>
+<h2 id="time-sensitivity">Time sensitivity</h2>
 
 *If this work is time sensitive, make it clear here.*
